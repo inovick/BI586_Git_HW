@@ -1,2 +1,2 @@
 # BI586_Git_HW
-Git HW 1
+Git HW 1_Novick
